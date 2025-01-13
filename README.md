@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Baljinder Singh</h1> <h3 align="center">Empowering AI/ML and Data Science development with Cutting-Edge Techniques</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chahalbaljinder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chahalbaljinder" alt="Trophies" /> </a> </p>
 
 
-- 🔭 I’m currently working on [SUPER SCADA](https://github.com/chahalbaljinder/metro_ridership_prediction)
+- 🔭 I’m currently working on Generative AI
 
 - 🌱 I’m currently learning **LLM Frameworks, API Agents ,Data Science, AIML**
 
 - 👯 I’m looking to collaborate on **AIML Projects**
 
-- 🤝 I’m looking for help with [https://github.com/chahalbaljinder/metro_ridership_prediction](https://github.com/chahalbaljinder/metro_ridership_prediction)
+- 🤝 I’m looking for help with [https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System.git](https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System.git)
 
 - 👨‍💻 All of my projects are available at [github/chahalbaljinder](https://github.com/chahalbaljinder)
 
