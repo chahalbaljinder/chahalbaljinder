@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **AIML Projects**
 
-- 🤝 I’m looking for help with [https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System.git](https://github.com/chahalbaljinder/RoadRanger-AI-Traffic-Optimization-System.git)
+- 🤝 I’m looking for help with [Finsavvy](https://github.com/chahalbaljinder/Finsavvy)
 
-- 👨‍💻 All of my projects are available at [github/chahalbaljinder](https://github.com/chahalbaljinder)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/chahalbaljinder)
 
-- 💬 Ask me about **Data Science, Machine learning**
+- 💬 Ask me about **Data Science, Machine learning, LLMs, AI Agents**
 
 - 📫 How to reach me **balliji913@gmail.com**
 
