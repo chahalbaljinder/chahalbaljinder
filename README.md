@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM Frameworks, API Agents ,Data Science, AIML**
 
-- 👯 I’m looking to collaborate on **AIML Projects**
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 🤝 I’m looking for help with [Finsavvy](https://github.com/chahalbaljinder/Finsavvy)
 
